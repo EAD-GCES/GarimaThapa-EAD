@@ -1,4 +1,7 @@
 # Indexing
 ## Assignment
 
-[Assignment1] (https://github.com/Ggarii/EAD/tree/main/Assignment/Assignment1)
+[Assignment1](https://github.com/Ggarii/EAD/tree/main/Assignment/Assignment1)
+
+##Practical
+[Lab4](https://github.com/Ggarii/EAD/tree/main/Practical/Lab4)
